@@ -1,0 +1,9 @@
+simple tutorial:
+http://digitalerr0r.wordpress.com/2013/08/27/unity-for-windows-i-getting-started/
+
+some more complete tutorials:
+http://forum.unity3d.com/threads/103421-Unity-Lesson-1-Draft
+
+
+additional tutorial links:
+http://forum.unity3d.com/threads/199044-Any-Hold-my-hand-Unity-101-tutorials-out-there

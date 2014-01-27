@@ -1,0 +1,93 @@
+fileFormatVersion: 2
+guid: 911e6cbf273f23f4188ea162d5353836
+ModelImporter:
+  serializedVersion: 15
+  fileIDToRecycleName:
+    100000: LevelMesh
+    100002: PointLight_2
+    100004: PointLight_2_pivot
+    100006: PointLight_3
+    100008: PointLight_3_pivot
+    100010: PointLight_4
+    100012: PointLight_4_pivot
+    100014: PointLight_5
+    100016: PointLight_5_pivot
+    100018: PointLight_6
+    100020: PointLight_6_pivot
+    100022: PointLight_7
+    100024: PointLight_7_pivot
+    100026: PointLight_8
+    100028: PointLight_8_pivot
+    100030: //RootNode
+    400000: LevelMesh
+    400002: PointLight_2
+    400004: PointLight_2_pivot
+    400006: PointLight_3
+    400008: PointLight_3_pivot
+    400010: PointLight_4
+    400012: PointLight_4_pivot
+    400014: PointLight_5
+    400016: PointLight_5_pivot
+    400018: PointLight_6
+    400020: PointLight_6_pivot
+    400022: PointLight_7
+    400024: PointLight_7_pivot
+    400026: PointLight_8
+    400028: PointLight_8_pivot
+    400030: //RootNode
+    2300000: LevelMesh
+    3300000: LevelMesh
+    4300000: LevelMesh
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    handles: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  additionalBone: 1
+  animationType: 2
+  userData: 
